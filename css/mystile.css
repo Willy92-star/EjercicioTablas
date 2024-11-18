@@ -1,0 +1,20 @@
+table, td, tr{
+   border: 1px solid black;
+   border-collapse: collapse;
+   width: 25px;
+   height: 10px;
+}
+
+td, tr{
+    padding: 35px;
+}
+
+table{
+    background-color: azure (248, 240, 231);
+}
+
+div{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
